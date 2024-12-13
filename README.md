@@ -32,7 +32,7 @@ A modern, secure web-based chat interface for the Claude AI assistant, built wit
 
 1. **Clone the repository**
   ```bash
-  git clone https://github.com/yourusername/claude-chat-app.git
+  git clone https://github.com/shubham526/claude-chat-app.git
   cd claude-chat-app
   ```
 2. **Create and activate virtual environment**
